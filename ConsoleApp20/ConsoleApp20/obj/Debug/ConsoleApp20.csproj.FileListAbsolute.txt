@@ -1,0 +1,14 @@
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\amalygin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+D:\Проекты\prog\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
